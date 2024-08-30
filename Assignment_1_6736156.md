@@ -23,7 +23,7 @@
 | Prophylactic treatment | How does this cure perform?
 | Arrhythmia disorders | How does these type of diseases related to SUDS?
 | Brugada syndrome | What this syndrome is and how its mechanism works.
-| SCN5A mutations | What do mutations affect?
+| SCN5A mutations | What is the effect of this mutation?
 | TruSeq 3000/4000 SBS Kit v3 | What is this kit?
 | p.His558Arg | Does this code mean the mutation which change histamine to arginine?
 <br />
